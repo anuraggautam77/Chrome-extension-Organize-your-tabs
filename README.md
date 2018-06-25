@@ -21,7 +21,7 @@
 [Add to Chrome](https://chrome.google.com/webstore/search/OYTs)
 
 
-Screenshot
+# Screenshot
 
 Landing page
 ![Landing-Page](https://user-images.githubusercontent.com/1465967/41863335-0bcb5f7a-78c4-11e8-93a6-cc9c20a12db8.jpg)
