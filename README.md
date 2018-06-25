@@ -1,7 +1,7 @@
 # Chrome Extension : Organize your Tabs (OYTs)
 
 
-[![Organize your Tabs]](hhttps://chrome.google.com/webstore/search/OYTs)
+[Organize your Tabs](hhttps://chrome.google.com/webstore/search/OYTs)
 
 
 # How It works
@@ -14,7 +14,7 @@
  
 
 
-- [Add to Chrome](hhttps://chrome.google.com/webstore/search/OYTs)
+[Add to Chrome](hhttps://chrome.google.com/webstore/search/OYTs)
 
 
 Screenshot
