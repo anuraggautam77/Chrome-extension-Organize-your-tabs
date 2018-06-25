@@ -1,7 +1,7 @@
 # Chrome Extension : Organize your Tabs (OYTs)
 
 
-[Organize your Tabs](hhttps://chrome.google.com/webstore/search/OYTs)
+[Organize your Tabs](https://chrome.google.com/webstore/search/OYTs)
 
 
 # How It works
@@ -12,9 +12,10 @@
 - Click on the OYTs icon in the upper-right to open a popup. This popup lists all your window tabs so you can easily see them at a glance.
 - Categories can be added and removed based on need, tabs can be added to categories to make it more friendly while browsing.
  
-
-
-[Add to Chrome](hhttps://chrome.google.com/webstore/search/OYTs)
+ 
+ ##
+ 
+[Add to Chrome](https://chrome.google.com/webstore/search/OYTs)
 
 
 Screenshot
