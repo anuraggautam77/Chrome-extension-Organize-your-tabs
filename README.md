@@ -5,7 +5,7 @@
 
 
 
-##How It works
+# How It works
 
 -Organize Your Tabs (OYTs) is a smart tab organizer. It’s non intrusive and fully private. When you enable this extension your tabs are bookmark based on the category you have added.
 - It will allow you to discover greater insights about your browsing habits.
@@ -15,7 +15,7 @@
 - Categories can be added and removed based on need, tabs can be added to categories to make it more friendly while browsing.
  
  
-##Extension Link
+# Extension Link
 
  
 [Add to Chrome](https://chrome.google.com/webstore/search/OYTs)
