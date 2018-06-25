@@ -24,7 +24,7 @@ Screenshot
 Landing page
 ![Landing-Page](https://user-images.githubusercontent.com/1465967/41863335-0bcb5f7a-78c4-11e8-93a6-cc9c20a12db8.jpg)
 
-User Dashboard
+Category Page
 ![Category-Page](https://user-images.githubusercontent.com/1465967/41863350-176249c0-78c4-11e8-9d8b-a7c40399ae71.jpg)
 
  ## Credits
