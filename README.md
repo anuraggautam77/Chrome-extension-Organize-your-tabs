@@ -21,11 +21,11 @@
 
 Screenshot
 
-Landing page without login 
-![capture](https://user-images.githubusercontent.com/1465967/38768241-fd93251c-400d-11e8-9b7d-d4e0558e9024.PNG)
+Landing page
+![Landing-Page](https://user-images.githubusercontent.com/1465967/41863335-0bcb5f7a-78c4-11e8-93a6-cc9c20a12db8.jpg)
 
 User Dashboard
-![capture](https://user-images.githubusercontent.com/1465967/38768216-913d7944-400d-11e8-9a3e-12807b8ef86e.PNG)
+![Category-Page](https://user-images.githubusercontent.com/1465967/41863350-176249c0-78c4-11e8-9d8b-a7c40399ae71.jpg)
 
  ## Credits
 
